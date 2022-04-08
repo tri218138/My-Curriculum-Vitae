@@ -8,6 +8,9 @@ Country: Viet Nam<br/>
 Study at: Ho Chi Minh City University of Technology (HCMUT)<br/>
 Faculty: Computer Science<br/>
 
+**Achievements**
+TOP 40 Talented engineers at Ho Chi Minh City University of Technology year 2021
+
 **English Skill**<br/>
 IELTS: 5.0<br/>
 
