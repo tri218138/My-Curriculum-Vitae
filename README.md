@@ -1,29 +1,29 @@
 # My-Curriculum-Vitae
 
 **Fundamental information**<br/>
-Name: Doan Tran Cao Tri
-Born: 11/08/2002
-Location: Ho Chi Minh City
-Country: Viet Nam
-Study at: Ho Chi Minh City University of Technology (HCMUT)
-Faculty: Computer Science
+Name: Doan Tran Cao Tri<br/>
+Born: 11/08/2002<br/>
+Location: Ho Chi Minh City<br/>
+Country: Viet Nam<br/>
+Study at: Ho Chi Minh City University of Technology (HCMUT)<br/>
+Faculty: Computer Science<br/>
 
 **English Skill**<br/>
-IELTS: 5.0
+IELTS: 5.0<br/>
 
 **Coding**<br/>
-Codeforce: https://codeforces.com/profile/tridoan288
-AtCoder: https://atcoder.jp/users/tridoan288
-LeetCode: https://leetcode.com/doantrancaotri1108/
+Codeforce: https://codeforces.com/profile/tridoan288<br/>
+AtCoder: https://atcoder.jp/users/tridoan288<br/>
+LeetCode: https://leetcode.com/doantrancaotri1108/<br/>
 
-**Project**
+**Project**<br/>
 
-**Contact**
-Phone number: (+84)961094102
-Facebook: https://www.facebook.com/profile.php?id=100013449046092
+**Contact**<br/>
+Phone number: (+84)961094102<br/>
+Facebook: https://www.facebook.com/profile.php?id=100013449046092<br/>
 
-**General education**
-Au Duong Lan primary school
-Le Ngoc Han junior high school
-Chuyen Tien Giang high school
-Ho Chi Minh City University of Technology
+**General education**<br/>
+Au Duong Lan primary school<br/>
+Le Ngoc Han junior high school<br/>
+Chuyen Tien Giang high school<br/>
+Ho Chi Minh City University of Technology<br/>
