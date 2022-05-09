@@ -34,3 +34,6 @@ Ho Chi Minh City University of Technology<br/>
 **Certification**
 ![CodeLearn_certification_AdvancedCpp](./CodeLearn/CodeLearn_certification_AdvancedCpp.png)
 ![CodeLearn_certification_basic_algorithm](./CodeLearn/CodeLearn_certification_basic_algorithm.png)
+
+https://www.hackerrank.com/certificates/dc5bc2e67763
+![HackerRank_certificate_problem_solving(basic)](./HackerRank/HackerRank_certificate_ProSol_bs.png)
