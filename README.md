@@ -30,3 +30,7 @@ Au Duong Lan primary school<br/>
 Le Ngoc Han junior high school<br/>
 Chuyen Tien Giang high school<br/>
 Ho Chi Minh City University of Technology<br/>
+
+**Certification**
+![CodeLearn_certification_AdvancedCpp](./CodeLearn/CodeLearn_certification_AdvancedCpp.png)
+![CodeLearn_certification_basic_algorithm](./CodeLearn/CodeLearn_certification_basic_algorithm.png)
